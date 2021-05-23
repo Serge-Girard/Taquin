@@ -11,7 +11,7 @@ L'idée de ce dépôt, downgrader cette première version pour répondre à la q
 La réponse principale est : "Remplacer TControlList par un TScrollBox et un TFrame" mais chaque version à apporter ses nouveautés<br>
 <br>
 10.3 à 10.4.2 Utilisation de TImageCollection<br> 
-de D2009 à 10_2 Utilisation des ressources (TImageCollection inexistant)
+de D2009 à 10_2 Utilisation des ressources (TImageCollection inexistant)<br>
 version FMX
 <br>
 ![Capture](https://user-images.githubusercontent.com/51124639/119260606-d9b5dc80-bbd3-11eb-8ebc-ba03f2db408d.PNG)
