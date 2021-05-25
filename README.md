@@ -14,4 +14,9 @@ La réponse principale est : "Remplacer TControlList par un TScrollBox et un TFr
 de D2009 à 10_2 Utilisation des ressources (TImageCollection inexistant)<br>
 version FMX
 <br>
-![Capture](https://user-images.githubusercontent.com/51124639/119260606-d9b5dc80-bbd3-11eb-8ebc-ba03f2db408d.PNG)
+![Capture](https://user-images.githubusercontent.com/51124639/119260606-d9b5dc80-bbd3-11eb-8ebc-ba03f2db408d.PNG)<br>
+
+Cirec m'a permis de proposer sa version (taquin_7_0) qui serait portable aà partir de la version versions D6<br>
+Améliorée d'un mélange assurant la faisabilité du puzzle<br>
+
+Patrick Prémartin s'est lui lancé dans l'aventure FMX https://vimeo.com/553026737
