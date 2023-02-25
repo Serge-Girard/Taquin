@@ -21,4 +21,4 @@ Améliorée d'un mélange assurant la faisabilité du puzzle.
 
 Patrick Prémartin s'est lui lancé dans l'aventure FMX avec [Taquin DX Books](https://github.com/DeveloppeurPascal/TaquinDXBooks).
 
-Pour tout savoir sur le composant TControlList, regardez ma "[plongée dans le TControlList de Delphi](https://serialstreameur.fr/webinaire-20210520.php)" et suivez les liens vers mes articles et exemples.
+Pour tout savoir sur le composant TControlList, regardez ma "[plongée dans le TControlList de Delphi](https://serialstreameur.fr/webinaire-20210520.php)" et suivez les liens ou consultez [mes exemples](https://github.com/Serge-Girard/TControlList).
