@@ -1,6 +1,6 @@
 # Taquin
 
-Dépendant de la version de Delphi, plusieurs répertoires différents autour du même jeu 10_4_3 utilisation du [nouveau composant VCL TControlList](https://docwiki.embarcadero.com/RADStudio/en/Using_VCL_TControlList_Control).
+Dépendant de la version de Delphi, plusieurs versions différentes autour du même jeu. Avec Delphi 10.4.3 Sydney utilisation du [nouveau composant VCL TControlList](https://docwiki.embarcadero.com/RADStudio/en/Using_VCL_TControlList_Control).
 
 L'objectif principal était dans un premier temps une utilisation du nouveau composant TControlList de la version 10.4.3 de Delphi.
 
