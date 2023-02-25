@@ -1,4 +1,4 @@
-* Taquin 10_4_3
+# Taquin 10_4_3
 
 Version du jeu de Taquin utilisant le nouveau composant TControlList ajouté à la VCL dans Delphi 10.4.3 Sydney.
 
