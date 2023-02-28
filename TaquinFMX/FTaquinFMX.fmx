@@ -1,0 +1,16 @@
+object FPiece: TFPiece
+  Padding.Left = 1.000000000000000000
+  Padding.Top = 1.000000000000000000
+  Padding.Right = 1.000000000000000000
+  Padding.Bottom = 1.000000000000000000
+  Size.Width = 102.000000000000000000
+  Size.Height = 102.000000000000000000
+  Size.PlatformDefault = False
+  object ImagePiece: TRectangle
+    Align = Client
+    Size.Width = 100.000000000000000000
+    Size.Height = 100.000000000000000000
+    Size.PlatformDefault = False
+    Stroke.Kind = None
+  end
+end
