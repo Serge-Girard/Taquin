@@ -114,7 +114,7 @@ begin
   for i := 0 to nbrMorceaux - 1 do
   begin
     p := TFPiece.Create(Self);
-    p.Width := 400 / sqrt(nbrMorceaux);
+    p.Width := Trunc(400 / sqrt(nbrMorceaux));
     p.Height := 400 / sqrt(nbrMorceaux);
     p.Name := 'P' + (i + 1).ToString;
     p.ImagePiece.Tag := i;

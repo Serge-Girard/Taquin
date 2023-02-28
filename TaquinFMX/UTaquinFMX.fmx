@@ -2,15 +2,15 @@ object Form17: TForm17
   Left = 0
   Top = 0
   Caption = 'Form17'
-  ClientHeight = 547
-  ClientWidth = 445
+  ClientHeight = 557
+  ClientWidth = 468
   FormFactor.Width = 320
   FormFactor.Height = 480
   FormFactor.Devices = [Desktop]
   OnCreate = FormCreate
   DesignerMasterStyle = 0
   object ToolBar1: TToolBar
-    Size.Width = 445.000000000000000000
+    Size.Width = 468.000000000000000000
     Size.Height = 57.000000000000000000
     Size.PlatformDefault = False
     TabOrder = 1
@@ -25,19 +25,19 @@ object Form17: TForm17
   end
   object ScaledLayout1: TScaledLayout
     Align = Client
-    OriginalWidth = 445.000000000000000000
-    OriginalHeight = 490.000000000000000000
-    Size.Width = 445.000000000000000000
-    Size.Height = 490.000000000000000000
+    OriginalWidth = 468.000000000000000000
+    OriginalHeight = 500.000000000000000000
+    Size.Width = 468.000000000000000000
+    Size.Height = 500.000000000000000000
     Size.PlatformDefault = False
     object TaquinBox: TScrollBox
       Align = Center
-      Size.Width = 400.000000000000000000
-      Size.Height = 400.000000000000000000
+      Size.Width = 422.000000000000000000
+      Size.Height = 438.000000000000000000
       Size.PlatformDefault = False
       TabOrder = 5
-      Viewport.Width = 400.000000000000000000
-      Viewport.Height = 400.000000000000000000
+      Viewport.Width = 422.000000000000000000
+      Viewport.Height = 438.000000000000000000
     end
   end
   object MultiView1: TMultiView
